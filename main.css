@@ -17,7 +17,7 @@ body {
     height: 70px;
     line-height: 70px;
     padding: 16px 8px;
-    font-size: 25px;
+    font-size: 36px;
     color: white;
     border: 1px solid white;
 }
@@ -49,7 +49,7 @@ body {
 }
 
 .button:hover {
-    background-color: #323330;
+    background-color: #303033;
     color: white;
     transition: 0.5s ease-in-out;
 }
